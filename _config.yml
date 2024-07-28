@@ -18,7 +18,7 @@ linkedin_username: "andrew-kim-7951b3133"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "slate"
+theme: "minima"
 
 rss: rss
 
