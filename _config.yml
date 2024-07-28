@@ -7,7 +7,7 @@ description: "An exploration of the field of Computer Vision, come join me on my
 email: "andrewykimse@gmail.com"
 #twitter_username: "twitteruser"
 github_username: "andrewykimse"
-#linkedin_username: "linkedinuser"
+linkedin_username: "andrew-kim-7951b3133"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
@@ -18,7 +18,7 @@ github_username: "andrewykimse"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
+theme: "slate"
 
 rss: rss
 
